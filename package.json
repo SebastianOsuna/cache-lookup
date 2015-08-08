@@ -1,0 +1,22 @@
+{
+    "name": "cache-lookup",
+    "version": "0.0.1",
+    "description": "Caching key:value/function storage. Includes automatic cache refreshing.",
+    "keywords": ["cache", "lookup", "memoization", "key", "value"],
+    "license": "MIT",
+    "author": {
+        "name": "Juan Sebastian Osuna",
+        "email": "jsebastianosuna@hotmail.com",
+        "url": "pepinyeah0.wordpress.com"
+    },
+    "main": "cache-lookup",
+    "bin": {},
+    "devDependencies": {
+        "chai": "",
+        "mocha": ""
+    },
+    "dependencies": {
+        "lodash": "",
+        "moment": ""
+    }
+}
