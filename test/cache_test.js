@@ -27,8 +27,8 @@ describe("CacheLookup", function () {
         it("should let describe cache keys", function () {
             var subject1 = cache.define('cache1', {}, cacheFn),
                 subject2 = cache.define('cache2', null, cacheFn);
-            expect(subject1).to.be.undescribed
-            expect(subject2).to.be.undescribed
+            expect(subject1).to.be.eq(undefined)
+            expect(subject2).to.be.eq(undefined)
         });
 
     });
