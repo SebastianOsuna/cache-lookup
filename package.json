@@ -6,8 +6,7 @@
     "license": "MIT",
     "author": {
         "name": "Juan Sebastian Osuna",
-        "email": "jsebastianosuna@hotmail.com",
-        "url": "pepinyeah0.wordpress.com"
+        "email": "jsebastianosuna@hotmail.com"
     },
     "main": "cache-lookup",
     "bin": {},
